@@ -2,6 +2,7 @@
 Storing the commandline_tools.
 
 When using merge_page_1_of_all.py
-'''bash
+
+```bash
 python3 merge_page_1_of_all.py -d "<pdf_dir>"
-'''
+```
